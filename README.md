@@ -1,4 +1,4 @@
-• Background
+• Background:
 
 Data source: breast-cancer-wisconsin from kaggle. 
 
