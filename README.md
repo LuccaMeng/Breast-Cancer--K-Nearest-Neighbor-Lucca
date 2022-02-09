@@ -46,4 +46,4 @@ Class distribution: 357 benign, 212 malignant
 
 Objective:
 
-Build K-NearestNeighbors model to predit the diagnosis.
+Build different models to predit the diagnosis and compare the results.
